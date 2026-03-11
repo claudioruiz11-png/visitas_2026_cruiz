@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
 # CONFIGURACIÓN
-EMAIL_DESTINO = "ruizalonso804@gmail.com"
+EMAIL_DESTINO = "claudio.ruiz11@gmail.com"
 MESES = ['MAR', 'ABR', 'MAY', 'JUN', 'JUL', 'AGO', 'SEP', 'OCT', 'NOV', 'DIC']
 
 def get_credentials():
