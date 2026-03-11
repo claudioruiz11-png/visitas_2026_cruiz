@@ -705,7 +705,7 @@ def main():
             
             with st.expander("ℹ️ Info", expanded=False):
                 st.caption("Los reportes se envían a:")
-                st.code("ruizalonso804@gmail.com")
+                st.code("claudio.ruiz11@gmail.com")
                 st.caption("Automático: días 15 y 30")
         else:
             st.warning("⚠️ Email no configurado")
